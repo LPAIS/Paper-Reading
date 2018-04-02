@@ -1,5 +1,5 @@
 # Paper-Reading
-A log for reading papers in LPAIS.
+A log for reading papers in LPAIS. Each week the member should update two files, one for personal log and the other for the current week log.
 
 
 An example:
