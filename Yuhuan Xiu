@@ -1,6 +1,22 @@
 Yuhuan Xiu,
 
+-2018 第五周 20180326-0401
   1.
-    [ICCV 2017] Dai B, Fidler S, Urtasun R, et al. Towards Diverse and Natural Image Descriptions via a Conditional GAN[J]. 2017:2989-2998.
+    [AAAI 2017] Yu L, Zhang W, Wang J, et al. Seqgan: sequence generative adversarial nets with policy gradient[C]// 
+    AAAI Conference on Artificial Intelligence, 4-9 February 2017, San Francisco, California, Usa. 2017.
+    结合策略梯度和生成对抗网络来解决序列文本生成任务
   2.
-    [AAAI 2017] Yu L, Zhang W, Wang J, et al. Seqgan: sequence generative adversarial nets with policy gradient[C]// AAAI Conference on Artificial Intelligence, 4-9 February 2017, San Francisco, California, Usa. 2017.
+    [ICCV 2017] Dai B, Fidler S, Urtasun R, et al. Towards Diverse and Natural Image Descriptions via a Conditional GAN[J].
+    In Proceedings of the International Conference on Computer Vision (ICCV), 2017:2989-2998.
+    通过条件GAN来生成多样、自然的图像描述，通过蒙特卡罗采样和策略梯度解决使用Gan生序列数据的不可微问题
+    
+-2018 第六周 20180402-0408
+  1.    
+    [ICCV 2017] Dai B, Fidler S, Urtasun R, et al. Towards Diverse and Natural Image Descriptions via a Conditional GAN[J].
+     In Proceedings of the International Conference on Computer Vision (ICCV), 2017:2989-2998.
+    通过条件GAN来生成多样、自然的图像描述，通过蒙特卡罗采样和策略梯度解决使用Gan生序列数据的不可微问题
+  2.
+    [CVPR 2017] Nam H, Ha J W, Kim J. Dual Attention Networks for Multimodal Reasoning and Matching[J]. 
+    IEEE Conference on Computer Vision and Pattern Recognition 2017.
+    通过对偶注意网络来解决视觉问答任务中的答案推断与图像和句子的匹配任务
+  
