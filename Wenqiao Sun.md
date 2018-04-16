@@ -10,3 +10,8 @@ Zhang S. L., Jiang H., Xu M. B., Hou J. F. and Dai L. R. The Fixed-Size Ordinall
 
 Zheng S, Wang F, Bao H, et al. Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics. 2017, pp. 1227-1236.
 提出多种端到端的模型结合新的标注方式来解决实体抽取与实体关系抽取的joint-learning任务，并在公共数据集上测试。
+
+20180409-0415 第七周
+
+Marek Rei, Gamal KO Crichton, and Sampo Pyysalo. Attending to characters in neural sequence labeling models. Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics, pages 309–318.
+该论文提出以RNN-CRF模型为基础的系统，重点改进了词向量和字向量的取舍和拼接，加入attention机制使模型能更有效、动态的结合词级和字符级的特征。实现效果比原始方法好。这篇论文是在NN解决NER问题中引入attention机制比较早的论文，后面陆续有新论文是在这个想法基础上展开。
