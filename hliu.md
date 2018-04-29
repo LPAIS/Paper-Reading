@@ -10,5 +10,5 @@ Zhang-Sue算法，实现二值化图像的细化。
 
 ## 2018 第八周 20180423-0429
 
-**1、Marius Bulacu,Lambert Schomaker and L. Vuurpijl,Writer identification using edge-based directional features.**  
+1、Marius Bulacu,Lambert Schomaker and L. Vuurpijl,Writer identification using edge-based directional features.
 in Proceedings of the International Conference on Document Analysis & Recognition(2003)pp.937-941
