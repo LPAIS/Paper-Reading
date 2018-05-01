@@ -29,6 +29,6 @@ in Proceedings of the International Conference on Document Analysis & Recognitio
     Li X,Ding X,Writer identification of chinese handwriting using grid microstructure feature,in Proceedings of the International Conference on Biometrics(2009)pp.1230-1239
     </b></li>
   <p>
- 本篇文章讲了利用基于网格微结构的特征提取的方法，首先要使用Sobel算子提取边缘，然后在边缘像素的（2L-1）*（2L-1）的的范围内找到同环内相邻黑色点出现的概率，尺度在2以内的相邻环的相邻黑点出现的概率，最后利用改进的加权欧氏距离和改进的加权卡方距离进行相似度排序。
+ 本篇文章讲了利用基于网格微结构的特征提取的方法，首先要使用Sobel算子提取边缘，然后在边缘像素的（2L-1）*（2L-1）的的范围内找到同环内相邻黑色点出现的次数，尺度在2以内的相邻环的相邻黑点出现的次数，最后利用改进的加权欧氏距离和改进的加权卡方距离进行相似度排序。
     </p>
   </ol>
