@@ -8,6 +8,7 @@ Hao Y, Zhang Y, Liu K, et al. An End-to-End Model for Question Answering over Kn
 
 在这篇文章中，作者提出了一个知识库问答（KBQA）的端到端的模型。与前人工作相比，作者动态地表达问题，而不是转换成为一个固定长度的vector。
 
+<br>
 
 2018 第六周 20180402-0408
 
@@ -15,6 +16,7 @@ Shang, Lifeng, Zhengdong Lu, and Hang Li. Neural Responding Machine for Short-Te
 
 这篇文章中作者提出了一个基于神经网络的短文本对话回应生成器。采用微博单论对话数据集，使用了sequence-to-sequence模型。
 
+<br>
 
 2018 第七周 20180409-0415
 
@@ -22,6 +24,7 @@ hang, Lifeng, Zhengdong Lu, and Hang Li. Neural Responding Machine for Short-Tex
 
 这篇文章中作者提出了一个基于神经网络的短文本对话回应生成器。采用微博单论对话数据集，使用了sequence-to-sequence模型。
 
+<br>
 
 2018 第八周 20180416-0422
 
@@ -29,6 +32,7 @@ hang, Lifeng, Zhengdong Lu, and Hang Li. Neural Responding Machine for Short-Tex
 
 这是一篇硕士学位论文，作者介绍了目前国内外聊天机器人的研究现状，以及基于RNN的seq2seq对话生成模型。
 
+<br>
 
 2018 第九周 20180423-0429
 
@@ -36,6 +40,7 @@ hang, Lifeng, Zhengdong Lu, and Hang Li. Neural Responding Machine for Short-Tex
 
 利用作者的seq2seq对话生成模型参数，对自己模型参数进行改进。
 
+<br>
 
 2018 第十周 20180430-0506
 
