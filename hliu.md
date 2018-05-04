@@ -33,4 +33,19 @@ in Proceedings of the International Conference on Document Analysis & Recognitio
     </p>
   </ol>
   
-## 2018 第九周 20180424-0505
+## 2018 第五周 20180326-0401
+
+<ol>
+  <li><b>
+    A Fast Parallel Algorithm for Thinning Digital Patterns.
+    </b></li>
+  <p>
+    Zhang-Sue算法，实现二值化图像的细化。
+    </p>
+  <li><b>
+    A New Thinning Algorithm for Binary Images。
+    </b></li>
+  <p>
+    一种改进的细化算法，结合了ZS算法和子域算法，解决了ZS算法出现的有冗余像素、过腐蚀等问题。
+    </p>
+  </ol>
