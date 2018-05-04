@@ -32,17 +32,13 @@ in Proceedings of the International Conference on Document Analysis & Recognitio
  本篇文章讲了利用基于网格微结构的特征提取的方法，首先要使用Sobel算子提取边缘，然后在边缘像素的（2L-1）*（2L-1）的的范围内找到同环内相邻黑色点出现的次数，尺度在2以内的相邻环的相邻黑点出现的次数，最后利用改进的加权欧氏距离和改进的加权卡方距离进行相似度排序。
     </p>
   </ol>
+  
 ## 2018 第九周 20180430-0505
+
 <ol>
   <li>
     <b>David G.Lowe,Distinctive Image Features from Scale-Invariant Keypoints,International journal of computer vision,vol.60,no.2,pp. 91–110,2004.
     </b></li>
   <p>这篇文章讲了一种改进的SFIT算法，SFIT是图像的局部特性，其对旋转、尺度缩放、亮度变化保持不变性，对视角变化、仿射变换和噪声也保持一定程度的稳定。
-    </p>
-  <li><b>
-    Li X,Ding X,Writer identification of chinese handwriting using grid microstructure feature,in Proceedings of the International Conference on Biometrics(2009)pp.1230-1239
-    </b></li>
-  <p>
- 本篇文章讲了利用基于网格微结构的特征提取的方法，首先要使用Sobel算子提取边缘，然后在边缘像素的（2L-1）*（2L-1）的的范围内找到同环内相邻黑色点出现的次数，尺度在2以内的相邻环的相邻黑点出现的次数，最后利用改进的加权欧氏距离和改进的加权卡方距离进行相似度排序。
     </p>
   </ol>
