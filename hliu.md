@@ -33,7 +33,7 @@ in Proceedings of the International Conference on Document Analysis & Recognitio
     </p>
   </ol>
   
-  ## 2018 第八周 20180423-0429
+## 2018 第八周 20180423-0429
 
 <ol>
   <li>
