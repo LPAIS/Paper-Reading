@@ -44,6 +44,6 @@ in Proceedings of the International Conference on Document Analysis & Recognitio
     YJ Xiong,Y Wen,PSP Wang,Y Lu,Text-independent writer identification using SIFT descriptor and contour-directional feature,in Proceedings of the International Conference on Document Analysis and Recognition(2015)pp.91-95.
     </b></li>
   <p>
-    这篇文章讲了一种利用SIFT和CDF结合的文本无关的书写人识别的方法。
+这篇文章讲了一种利用SIFT和CDF结合的文本无关的书写人识别的方法。
     </p>
   </ol>
