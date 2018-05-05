@@ -40,4 +40,10 @@ in Proceedings of the International Conference on Document Analysis & Recognitio
   <p>
     这篇文章讲了一种改进的SFIT算法，SFIT是图像的局部特性，其对旋转、尺度缩放、亮度变化保持不变性，对视角变化、仿射变换和噪声也保持一定程度的稳定。
     </p>
+  <li><b>
+    YJ Xiong,Y Wen,PSP Wang,Y Lu,Text-independent writer identification using SIFT descriptor and contour-directional feature,in Proceedings of the International Conference on Document Analysis and Recognition(2015)pp.91-95.
+    </b></li>
+  <p>
+    这篇文章讲了一种利用SIFT和CDF结合的文本无关的书写人识别的方法。
+    </p>
   </ol>
