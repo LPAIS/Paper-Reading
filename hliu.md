@@ -32,7 +32,7 @@ in Proceedings of the International Conference on Document Analysis & Recognitio
     </p>
   </ol>
   
-  ## 2018 第十周 20180430-0505
+## 2018 第十周 20180430-0505
 <ol>
   <li><b>
     David G.Lowe,Distinctive Image Features from Scale-Invariant Keypoints,International journal of computer vision,vol.60,no.2,pp. 91–110,2004.
